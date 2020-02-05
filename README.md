@@ -1,5 +1,19 @@
 # HashtagSeeker
 
+# About
+
+This project is a instagram feed copy that consumes an api to show data according to a determined hashtag.
+
+this project is hosted here : http://photoseeker-site.s3-website-sa-east-1.amazonaws.com/
+
+# To Run
+
+Clone this repository and simply do `yarn` or `npm install` and follow the steps below.
+
+Best Regards !
+
+---------------------------------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
