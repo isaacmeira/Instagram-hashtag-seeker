@@ -4,6 +4,10 @@
 
 This project is a instagram feed copy that consumes an api to show data according to a determined hashtag.
 
+The api has a limitation on the number of requests, in this case, it is running every 30 minutes and not in real time.
+
+The profile that posts the photo must be public to have the images reflected in the app.
+
 this project is hosted here : http://photoseeker-site.s3-website-sa-east-1.amazonaws.com/
 
 # To Run
