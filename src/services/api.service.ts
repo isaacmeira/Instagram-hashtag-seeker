@@ -9,7 +9,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 export class ApiService {
   data;
   loading = true;
-  desiredHash = 'love'
+  desiredHash = 'vscode'
 
   constructor(private httpClient: HttpClient) { }
 
